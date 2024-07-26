@@ -1,4 +1,3 @@
-[![MasterHead]("https://www.cbit.ac.in/wp-content/uploads/2023/03/AIML-CBIT.gif")
 <h1 align="center">Hi 👋, I'm Keerthi Prasath</h1>
 <h3 align="center">Artificial Intelligence and Machine Learning Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJsKZVppBhshJBN6_RHp9luylwz4eQO4I8Tg&s">
