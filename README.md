@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently **Looking👀 for a job (Fresher)**
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **MERN STACK**
 
 - 👨‍💻 All of my projects are available at [666205c22d325.site123.me](666205c22d325.site123.me)
 
